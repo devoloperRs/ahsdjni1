@@ -1,0 +1,9 @@
+body{
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: capitalize;
+}
